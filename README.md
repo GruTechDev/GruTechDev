@@ -60,19 +60,10 @@ Here are some ideas to get you started:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GruTechDev&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GruTechDev&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
 ## 🔥 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GruTechDev&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
