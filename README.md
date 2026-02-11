@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm GruTechDev</h1>
 <h3 align="center">Senior Software Engineer && 8+ Years of Experience && Full-Stack Specialist</h3>
 
 
