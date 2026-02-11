@@ -85,8 +85,6 @@ Here are some highlighted repositories demonstrating my expertise:
 - 🔹 **Data Processing Engine** – Python-based high-performance data system  
 - 🔹 **.NET Microservice** – Distributed architecture using C#  
 
-(Replace with your actual repository links)
-
 ---
 
 ## 🧠 Engineering Philosophy
