@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **GruTechDev/GruTechDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm GruTechDev</h1>
-<h3 align="center">Senior Software Engineer && 8+ Years of Experience && Full-Stack Specialist</h3>
+<h3 align="center">Senior Software Engineer  •  8+ Years of Experience  •  Full-Stack Specialist</h3>
 
 
 ---
