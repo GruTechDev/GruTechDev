@@ -113,9 +113,8 @@ Here are some highlighted repositories demonstrating my expertise:
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Your LinkedIn]
-- 🌐 Portfolio: [Your Website]
-- 📧 Email: your.email@example.com
+- 💼 LinkedIn: linkedin.com/in/james-astacio-flli
+- 📧 Email: jamesastacio994@gmail.com
 
 ---
 
